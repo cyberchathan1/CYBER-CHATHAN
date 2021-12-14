@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'CatBot created by *Basil sir*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'CyberChathan created by *CyberChathan*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
