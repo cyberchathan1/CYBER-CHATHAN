@@ -15,7 +15,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/channel/UCcSON7_Y-qfNV5euznwBJ7w*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Catbot Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng \n https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC \n\nChanges:\n```",
+            "NEW_UPDATE": "*Catbot Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://youtube.com/channel/UCcSON7_Y-qfNV5euznwBJ7w \n https://chat.whatsapp.com/K3jJZnR7urrF62YrAud0W2 \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😺 Catbot Restarting*"
+            "AFTER_UPDATE": "*😺 Cyber chathan Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
